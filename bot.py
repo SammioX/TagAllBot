@@ -1,6 +1,5 @@
 import os, logging, asyncio
 
-from telegraph import upload_file
 
 from telethon import Button
 from telethon import TelegramClient, events
