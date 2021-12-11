@@ -81,6 +81,6 @@ async def mentionall(event):
         usrtxt = ""
 
 
-print("Started Successfully Join Support")
-print("¯\_(ツ)_/¯ Need Help Join @DeCodeSupport")
+print("𝐍𝐎𝐈𝐍𝐎𝐈 𝐎𝐏 𝐁𝐎𝐋𝐓𝐄 𝐆𝐔𝐘𝐒 ‼️")
+print("¯\_(ツ)_/¯ Need Help Join @CFC_BOT_SUPPORT")
 client.run_until_disconnected()
